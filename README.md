@@ -2,8 +2,8 @@
 
 ## Dataset
 
-Name : insurance.csv;
-Columns :
+Name : insurance.csv
+- Columns :
 
 - age: age of primary beneficiary
 
