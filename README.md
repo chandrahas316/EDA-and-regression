@@ -1,13 +1,12 @@
 # EDA-and-regression
 
-## Dataset
+## Dataset(insurance.csv)
 
-- Name : insurance.csv
-- Columns :
+Columns :
 
--- age: age of primary beneficiary
+- age: age of primary beneficiary
 
--- sex: insurance contractor gender, female, male
+- sex: insurance contractor gender, female, male
 
 - bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
 
