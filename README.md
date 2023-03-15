@@ -1,8 +1,8 @@
 # EDA-and-regression
 
-##Dataset
+## Dataset
 
-Name : insurance.csv
+Name : insurance.csv;
 Columns :
 
 - age: age of primary beneficiary
