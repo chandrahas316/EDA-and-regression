@@ -18,3 +18,14 @@ Columns :
 
 - charges: Individual medical costs billed by health insurance.
 
+## Contents of the code 
+
+- Data Preprocessing
+
+- Exploratory Data Analysis
+
+- Data Preparation
+
+- Training with a linear regression model
+
+- Creating a simple polynomial regression model.
