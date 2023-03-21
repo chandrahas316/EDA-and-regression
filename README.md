@@ -18,7 +18,9 @@ Columns :
 
 - charges: Individual medical costs billed by health insurance.
 
-## Contents of the code 
+## Code implementation
+
+- Install required libraries before running the code.
 
 - Data Preprocessing : Checked whether there are any null values or not.
 
