@@ -20,12 +20,12 @@ Columns :
 
 ## Contents of the code 
 
-- Data Preprocessing
+- Data Preprocessing : Checked whether there are any null values or not.
 
-- Exploratory Data Analysis
+- Exploratory Data Analysis : Obtained summary statistics for numerical attributes of the dataset. Box plots to detect outliers in the dataset.
 
-- Data Preparation
+- Data Preparation : One hot encoding for the categorical attributes.
 
-- Training with a linear regression model
+- Training with a linear regression model.
 
-- Creating a simple polynomial regression model.
+- Creating a simple polynomial regression model with accuracy
